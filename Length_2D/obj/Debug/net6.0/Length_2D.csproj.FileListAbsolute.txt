@@ -1,0 +1,15 @@
+C:\Users\UserOk\Desktop\C#\Length_2D\obj\Debug\net6.0\Length_2D.csproj.AssemblyReference.cache
+C:\Users\UserOk\Desktop\C#\Length_2D\obj\Debug\net6.0\Length_2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserOk\Desktop\C#\Length_2D\obj\Debug\net6.0\Length_2D.AssemblyInfoInputs.cache
+C:\Users\UserOk\Desktop\C#\Length_2D\obj\Debug\net6.0\Length_2D.AssemblyInfo.cs
+C:\Users\UserOk\Desktop\C#\Length_2D\obj\Debug\net6.0\Length_2D.csproj.CoreCompileInputs.cache
+C:\Users\UserOk\Desktop\C#\Length_2D\bin\Debug\net6.0\Length_2D.exe
+C:\Users\UserOk\Desktop\C#\Length_2D\bin\Debug\net6.0\Length_2D.deps.json
+C:\Users\UserOk\Desktop\C#\Length_2D\bin\Debug\net6.0\Length_2D.runtimeconfig.json
+C:\Users\UserOk\Desktop\C#\Length_2D\bin\Debug\net6.0\Length_2D.dll
+C:\Users\UserOk\Desktop\C#\Length_2D\bin\Debug\net6.0\Length_2D.pdb
+C:\Users\UserOk\Desktop\C#\Length_2D\obj\Debug\net6.0\Length_2D.dll
+C:\Users\UserOk\Desktop\C#\Length_2D\obj\Debug\net6.0\refint\Length_2D.dll
+C:\Users\UserOk\Desktop\C#\Length_2D\obj\Debug\net6.0\Length_2D.pdb
+C:\Users\UserOk\Desktop\C#\Length_2D\obj\Debug\net6.0\Length_2D.genruntimeconfig.cache
+C:\Users\UserOk\Desktop\C#\Length_2D\obj\Debug\net6.0\ref\Length_2D.dll
